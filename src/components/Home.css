@@ -1,0 +1,9 @@
+.carArticle {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+}
+.carDetail {
+  background-color: grey;
+  padding: 2vh 4vw;
+}
